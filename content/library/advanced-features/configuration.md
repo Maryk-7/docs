@@ -212,8 +212,8 @@ enableStaticServing = false
 serverAddress = "localhost"
 
 # Whether to send usage statistics to Streamlit.
-# Default: true
-gatherUsageStats = true
+# Default: false
+gatherUsageStats = false
 
 # Port where users should point their browsers in order to connect to the app.
 # This is used to: - Set the correct URL for CORS and XSRF protection purposes. - Show the URL on the terminal - Open the browser
